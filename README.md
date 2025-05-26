@@ -12,9 +12,9 @@ Here are a few repos that showcase how I put theory into practice.
 
 
 ## I’m Currently Learning
-- **Terraform for scalable IaC** (modules, workspaces, testing) for scalable IaC  
-- **Vanta GRC platform** via sandbox demos to streamline ISO 27001 & SOC 2 evidence collection  
-- **DevSecOps practices**, integrating security scans into CI/CD pipelines
+- **Terraform for scalable IaC** (modules, workspaces, testing) for scalable IaC.  
+- **Vanta GRC platform** via sandbox demos to streamline ISO 27001 & SOC 2 evidence collection.  
+- **DevSecOps practices**, integrating security scans into CI/CD pipelines.
 
 ### 🧰 Technologies I Work With
 
