@@ -32,7 +32,7 @@ My projects demonstrate how I design cloud environments using Terraform, apply s
 
 ### 📫 Let's Connect
 
-- 🔗 [Linkedin]([https://www.linkedin.com/in/olu-a-)
+- 🔗 [Linkedin](https://www.linkedin.com/in/olu-a-)
 - 🌐 [Portfolio](https://oluadio.curious.page)  
 - ✍️ [Medium Articles](https://medium.com/@olaaoluwase)  
 - 📂 View my code on [GitHub](https://github.com/Oluoladio)  
